@@ -1,0 +1,52 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Cancionero de la Alicantina",
+    "section": "",
+    "text": "Introducción\nA mis queridos compañeros,\nEste libro es escrito con código abierto, lo que sígnifica que cualquier un o una puede colaborar en su crescimiento.\nPorfavor, si teneis canciones a añadir, enviarme un correo a lucas@lucasgaldino.com. De mi parte, añadiré a medida que conozco nuevas canciones.\nViva la tuna! Visca Alacant!",
+    "crumbs": [
+      "Introducción"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "2  Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "2  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "References"
+    ]
+  },
+  {
+    "objectID": "maria_va.html",
+    "href": "maria_va.html",
+    "title": "1  Maria Va",
+    "section": "",
+    "text": "El ritmo es un 3/4, vals acelerado.\nINTRO\n\nMim La Lam Si7 Mim\nMi7 Lam Re7 Sol Si7\n         Mim                        La\nMirar rasgado patitas chuecas María va\n         Lam              Si7          Mim\nPisando apenas la arena ardiente María va\n           Mi7                         Lam\nCalcina el monte un sol de fuego María va\n          Re7                      Sol Si7\nTemor con velo palmar estero María va\n\n         Mim                             La\nQuiso la siesta ponerle un niño a su soledad\n           Lam          Si7         Mi\nDe trigo y luna vive su manto María va\nESTRIBILLO\n\nSol        Sim    Mi7        Lam\nPor el tabacal su paso María va\nSi7          Mim              Do7   Si7    Mim\nY se bebe el sol, que huele a duende María va\nINSTRUMENTAL\nESTRIBILLO \n\nSol        Sim    Mi7        Lam\nPor el tabacal su paso María va\nSi7          Do               Do7   Si7    Mim\nY se bebe el sol, que huele a duende María va",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Maria Va</span>"
+    ]
+  }
+]

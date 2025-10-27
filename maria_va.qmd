@@ -1,0 +1,46 @@
+# Maria Va
+
+{{< video https://www.youtube.com/watch?v=MW3ZSOsUvnQ >}}
+
+El ritmo es un 3/4, vals acelerado.
+
+```org
+INTRO
+
+Mim La Lam Si7 Mim
+Mi7 Lam Re7 Sol Si7
+```
+```org
+         Mim                        La
+Mirar rasgado patitas chuecas María va
+         Lam              Si7          Mim
+Pisando apenas la arena ardiente María va
+           Mi7                         Lam
+Calcina el monte un sol de fuego María va
+          Re7                      Sol Si7
+Temor con velo palmar estero María va
+
+         Mim                             La
+Quiso la siesta ponerle un niño a su soledad
+           Lam          Si7         Mi
+De trigo y luna vive su manto María va
+```
+```org
+ESTRIBILLO
+
+Sol        Sim    Mi7        Lam
+Por el tabacal su paso María va
+Si7          Mim              Do7   Si7    Mim
+Y se bebe el sol, que huele a duende María va
+```
+```org
+INSTRUMENTAL
+```
+```org
+ESTRIBILLO 
+
+Sol        Sim    Mi7        Lam
+Por el tabacal su paso María va
+Si7          Do               Do7   Si7    Mim
+Y se bebe el sol, que huele a duende María va
+```
