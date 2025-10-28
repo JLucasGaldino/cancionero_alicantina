@@ -4,13 +4,13 @@
 
 El ritmo es un 3/4, vals acelerado.
 
-```org
+::: {.panel-tabset}
+## Guitarra
+```{.markdown}
 INTRO
 
 Mim La Lam Si7 Mim
 Mi7 Lam Re7 Sol Si7
-```
-```org
          Mim
 Mirar rasgado patitas chuecas 
       La
@@ -37,31 +37,29 @@ a su soledad
 De trigo y luna vive su manto 
       Mi
 María va
-```
-```org
+
 ESTRIBILLO
 
 Sol        Sim    Mi7
 Por el tabacal su paso 
       Lam
 María va
-Si7          Mim              Do7   Si7 
-Y se bebe el sol, que huele a duende 
-      Mim
-María va
-```
-```org
+Si7          Mim
+Y se bebe el sol, 
+            Do7   Si7    Mim
+que huele a duende María va
+
 INSTRUMENTAL
-```
-```org
-ESTRIBILLO 
+
+ESTRIBILLO
 
 Sol        Sim    Mi7
 Por el tabacal su paso 
       Lam
 María va
-Si7          Do               Do7   Si7
-Y se bebe el sol, que huele a duende
-      Mim
-María va
+Si7          Do
+Y se bebe el sol, 
+            Do7   Si7    Mim
+que huele a duende María va
 ```
+:::

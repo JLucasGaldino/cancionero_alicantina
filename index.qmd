@@ -7,7 +7,7 @@ A mis queridos compañeros,
 
 Este libro es escrito con código abierto, lo que sígnifica que cualquier un o una puede colaborar en su crescimiento.
 
-Porfavor, si teneis canciones a añadir, enviarme un correo a lucas@lucasgaldino.com. De mi parte, añadiré a medida que conozco nuevas canciones.
+Porfavor, si teneis canciones a añadir, editar el codigo en la página [GitHub](https://github.com/JLucasGaldino/cancionero_alicantina) enviarme un correo a lucas@lucasgaldino.com. De mi parte, añadiré a medida que conozco nuevas canciones.
 
 Viva la tuna!
 Visca Alacant!

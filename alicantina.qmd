@@ -1,0 +1,114 @@
+# Alicantina
+
+
+{{< video https://www.youtube.com/watch?v=2eWiLiq1r2s >}}
+
+::: {.panel-tabset}
+## Guitarra
+.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0
+```{.markdown}
+Lam  	             Rem
+Cuando estoy lejos recuerdo
+Mi             	  Lam
+Mi inigualable ciudad
+La7  	         Rem
+Sólo de pensarlo quiero
+Fa  	           Mi
+Por mi Alicante llorar.
+ 
+Lam  	             Rem 
+Tierra que vió mis anhelos 
+Sol  	           Do 
+Entre los tuyos cruzar 
+Rem  	      Lam 
+Alicantina me muero 
+Fa  	          Mi
+Por esos labios besar.
+ 
+ESTRIBILLO
+ 
+La  	       Do#m 
+Alicante de mi alma 
+Fa#m  	            La7 
+A la vez mora y cristiana 
+Re Mi  Do#m Fa#m 
+Un cas-till-o
+Sim  	         Mi 
+te nace de las entrañas 
+ 
+La  	           Do#m 
+Y en él habita una Santa 
+Fa#m  	              La7 
+Que siempre altiva te guarda 
+Re  	  Mi  Do#m  	 Fa#m 
+Bárbara mujer Santa a la vez 
+Sim  	           Mi 
+Dama y Señora de España 
+ 
+CODA
+ 
+Sim  	          Rem 
+Tres esmeraldas recorren tu piel 
+       La            Fa#m 
+En las noches de San Juan 
+      Sim  	               Mi 
+Un Castillo, un mar y unos ojos 
+     La
+de mujer. 
+ 
+INSTRUMENTAL
+ 
+Lam  	           Rem 
+Impenetrable es su frente 
+Mi  	           Lam 
+Dulce cara de encantada 
+La7  	            Rem 
+La orilla ves a tus	pies 
+         Fa  	       Mi 
+Cuando divisas la esplanada. 
+Lam  	            Rem 
+Dulce tristeza de una mujer 
+Sol  	             Do 
+Contempla la estudiantina 
+Rem  	       Lam 
+Sollozos de palmeras 
+        Fa  	   Mi 
+Bajo la luna alicantina 
+ 
+ESTRIBILLO
+ 
+La  	       Do#m 
+Alicante de mi alma 
+Fa#m  	            La7 
+A la vez mora y cristiana 
+Re Mi  Do#m Fa#m 
+Un cas-till-o
+Sim  	         Mi 
+te nace de las entrañas 
+ 
+La  	           Do#m 
+Y en él habita una Santa 
+Fa#m  	              La7 
+Que siempre altiva te guarda 
+Re  	  Mi  Do#m  	 Fa#m 
+Bárbara mujer Santa a la vez 
+Sim  	           Mi 
+Dama y Señora de España 
+ 
+CODA
+ 
+Sim  	          Rem 
+Tres esmeraldas recorren tu piel 
+       La            Fa#m 
+En las noches de San Juan 
+      Sim  	               Mi
+Un Castillo, un mar y unos ojos
+     La
+de mujer. 
+```
+   
+## Bandurilla
+```{.markdown}
+Test
+```
+:::
