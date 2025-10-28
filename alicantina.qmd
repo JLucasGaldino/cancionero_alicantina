@@ -5,7 +5,6 @@
 
 ::: {.panel-tabset}
 ## Guitarra
-.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0
 ```{.markdown}
 Lam  	             Rem
 Cuando estoy lejos recuerdo
