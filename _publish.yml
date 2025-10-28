@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: c449d631-56f7-413b-8271-3d0c86b8be27
+      url: https://lucasgaldino.quarto.pub/cancionero

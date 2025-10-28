@@ -11,27 +11,44 @@ Mim La Lam Si7 Mim
 Mi7 Lam Re7 Sol Si7
 ```
 ```org
-         Mim                        La
-Mirar rasgado patitas chuecas María va
-         Lam              Si7          Mim
-Pisando apenas la arena ardiente María va
-           Mi7                         Lam
-Calcina el monte un sol de fuego María va
-          Re7                      Sol Si7
-Temor con velo palmar estero María va
+         Mim
+Mirar rasgado patitas chuecas 
+      La
+María va
+         Lam              Si7
+Pisando apenas la arena ardiente 
+      Mim
+María va
 
-         Mim                             La
-Quiso la siesta ponerle un niño a su soledad
-           Lam          Si7         Mi
-De trigo y luna vive su manto María va
+           Mi7
+Calcina el monte un sol de fuego 
+      Lam
+María va
+          Re7
+Temor con velo palmar estero 
+      Sol Si7
+María va
+
+         Mim
+Quiso la siesta ponerle un niño 
+         La
+a su soledad
+           Lam          Si7
+De trigo y luna vive su manto 
+      Mi
+María va
 ```
 ```org
 ESTRIBILLO
 
-Sol        Sim    Mi7        Lam
-Por el tabacal su paso María va
-Si7          Mim              Do7   Si7    Mim
-Y se bebe el sol, que huele a duende María va
+Sol        Sim    Mi7
+Por el tabacal su paso 
+      Lam
+María va
+Si7          Mim              Do7   Si7 
+Y se bebe el sol, que huele a duende 
+      Mim
+María va
 ```
 ```org
 INSTRUMENTAL
@@ -39,8 +56,12 @@ INSTRUMENTAL
 ```org
 ESTRIBILLO 
 
-Sol        Sim    Mi7        Lam
-Por el tabacal su paso María va
-Si7          Do               Do7   Si7    Mim
-Y se bebe el sol, que huele a duende María va
+Sol        Sim    Mi7
+Por el tabacal su paso 
+      Lam
+María va
+Si7          Do               Do7   Si7
+Y se bebe el sol, que huele a duende
+      Mim
+María va
 ```
