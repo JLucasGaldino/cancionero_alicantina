@@ -1,0 +1,99 @@
+# Perdóname
+
+{{< video https://www.youtube.com/watch?v=491kWPIZL3A >}}
+
+::: {.panel-tabset}
+## Guitarra
+```{.markdown}
+INTRO
+
+Sol Mim Lam Re7 
+Sim Mim Lam Re7
+
+SOLO
+
+  Sol Mim             Lam Re7
+Vivi--ir, quisiera contigo
+
+  Sol Mim              Lam Re7
+Vivir,   no sabría sin ti
+
+   Sol Mim              Lam Re7
+Di si,    tu vendrás conmigo
+
+   Sol Mim               Lam Re7
+Di si,    tu te irás sin mi,
+
+tu te iras sin mi!
+
+INSTRUMENTAL
+
+Sol Mim Lam Re7 x4
+
+Solm Fa La#dim Solm La7 Re7
+
+BIS
+                    Solm
+Por un sueño que se fue
+                   Dom
+Cuando me dijiste adiós
+                 Re7
+Con el alma despechada
+
+Con el alma desgarrada
+                 Solm
+Se perdió mi corazón
+
+UNA VEZ
+
+     Dom 
+Aléjate 
+                   Fa
+que necesito abandonarte
+
+      La#dim
+Olvídame 
+
+                     Solm
+que ya no puedo más amarte
+
+        La7          Re7
+contigo se me fue la vida
+
+ESTRIBILLO
+
+       Sol              Mim
+Perdóname si no supe quererte
+
+       Lam              Re7
+Perdóname si no supe adorarte
+
+         Sim
+Quiero saber 
+
+                 Mi
+Por qué me abandonaste
+
+                    Lam Re7
+Y me dejaste a la deriva
+
+       Sol               Mim
+Entenderé vivir sin tu mirada
+
+       Lam                 Re7
+Entenderé saber que no me amabas
+
+          Sim
+Siempre diré
+
+                  Mim 
+Que no entregaste nada
+
+                   Lam Re7
+Cuando yo te di mi vida
+
+INSTRUMENTAL FINAL
+Sol Mim Lam Re7
+
+```
+:::

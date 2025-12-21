@@ -7,8 +7,10 @@ book:
   date: "10/27/2025"
   chapters:
     - index.qmd
+    - a_la_luz_de_la_luna.qmd
     - alicantina.qmd
     - maria_va.qmd
+    - perdoname.qmd
 
 bibliography: references.bib
 

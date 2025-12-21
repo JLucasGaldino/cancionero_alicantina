@@ -1,0 +1,22 @@
+#+html:<h1 align="center">Cancionero de la Alicantina</h1>
+#+html: <p align="center"><a href="https://orgmode.org"><img src="https://img.shields.io/badge/Org-Document-%2377aa99?style=flat-square&logo=org&logoColor=white"> </a><a href="https://www.gnu.org/software/emacs/"><img src="https://img.shields.io/badge/Made_with-Emacs-blueviolet.svg?style=flat-square&logo=GNU%20Emacs&logoColor=white"></a></p>
+#+html:<div align="center">
+Cancionero para la Tuna de Medicina de Alicante
+#+HTML:</div>
+
+* Como añadir una canción:
+1. Crear un archivo .qmd
+2. Editar el texto
+3. Añadir el nombre del archivo bajo la lista "chapters" en _quarto.yml
+   
+Para un ejemplo, ver el archivo alicantina.qmd
+* Ver como quedará la canción
+1. Descargar el programa "quarto"
+2. En un terminal, dentro del fichero con los archivos, ejecutar el comando siguiente:
+#+begin_src bash
+quarto preview .
+#+end_src
+
+* Como publicar al sitio web
+Basta crear un pull request con la canción
+   

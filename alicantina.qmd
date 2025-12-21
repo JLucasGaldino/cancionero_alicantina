@@ -106,8 +106,8 @@ Un Castillo, un mar y unos ojos
 de mujer. 
 ```
    
-## Bandurilla
+## Bandurria
 ```{.markdown}
-Test
+A venir
 ```
 :::
