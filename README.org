@@ -19,4 +19,6 @@ quarto preview .
 
 * Como publicar al sitio web
 Basta crear un pull request con la canción
+* A hacer
+- Eliminar la contraseña de Quarto Pub y añadir publicación automática con GitHub actions para permitir colaboración más facil
    
